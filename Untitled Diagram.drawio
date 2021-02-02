@@ -1,1 +1,414 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T07:58:12.345Z" agent="5.0 (Windows)" etag="pk5Qm5mTGffsU9bpzsCf" version="14.2.9" type="github"><diagram id="OlMQ8r9Cjyl36SM7t3xo" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-02T08:10:34.872Z" agent="5.0 (Windows)" etag="EW8opBXaSNJ8BvcB6rBG" version="14.2.9" type="github">
+  <diagram id="OlMQ8r9Cjyl36SM7t3xo" name="Page-1">
+    <mxGraphModel dx="1013" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7EWgq0S61AGJvDN5Yk3w-1" value="必修第一册" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="237" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7EWgq0S61AGJvDN5Yk3w-2" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="7EWgq0S61AGJvDN5Yk3w-1" target="qEaScAbRv6_QL6zA3PdD-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="337" y="99" as="sourcePoint" />
+            <mxPoint x="387" y="-3" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="339" y="99" />
+              <mxPoint x="337" y="99" />
+              <mxPoint x="337" y="37" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EWgq0S61AGJvDN5Yk3w-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7EWgq0S61AGJvDN5Yk3w-1" edge="1" target="-lf4UjEkGuIfoQJ0EiHT-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="327" y="410" as="sourcePoint" />
+            <mxPoint x="397" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-2" value="物质的分类与计量" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="7" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-16" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qEaScAbRv6_QL6zA3PdD-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="-3" as="sourcePoint" />
+            <mxPoint x="960" y="-123" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="37" />
+              <mxPoint x="600" y="-83" />
+              <mxPoint x="840" y="-83" />
+              <mxPoint x="840" y="-123" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-21" value="物质的转化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qEaScAbRv6_QL6zA3PdD-16" vertex="1" connectable="0">
+          <mxGeometry x="0.4917" y="-1" relative="1" as="geometry">
+            <mxPoint x="-141" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-34" value="物质转化的类型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qEaScAbRv6_QL6zA3PdD-16" vertex="1" connectable="0">
+          <mxGeometry x="0.7429" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-17" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qEaScAbRv6_QL6zA3PdD-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="187" as="sourcePoint" />
+            <mxPoint x="960" y="-3" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="37" />
+              <mxPoint x="840" y="-3" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-22" value="化学反应的分类" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qEaScAbRv6_QL6zA3PdD-17" vertex="1" connectable="0">
+          <mxGeometry x="0.525" y="-2" relative="1" as="geometry">
+            <mxPoint x="-136" y="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-36" value="四种基本反应类型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qEaScAbRv6_QL6zA3PdD-17" vertex="1" connectable="0">
+          <mxGeometry x="0.6875" y="3" relative="1" as="geometry">
+            <mxPoint x="15" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-18" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qEaScAbRv6_QL6zA3PdD-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="277" as="sourcePoint" />
+            <mxPoint x="960" y="277" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="37" />
+              <mxPoint x="600" y="277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-24" value="物质的分散系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qEaScAbRv6_QL6zA3PdD-18" vertex="1" connectable="0">
+          <mxGeometry x="0.65" y="-2" relative="1" as="geometry">
+            <mxPoint x="-131" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-6" value="浊液" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qEaScAbRv6_QL6zA3PdD-18">
+          <mxGeometry x="0.8882" y="-2" relative="1" as="geometry">
+            <mxPoint x="-32" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-19" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qEaScAbRv6_QL6zA3PdD-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="317" as="sourcePoint" />
+            <mxPoint x="960" y="117" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="37" />
+              <mxPoint x="600" y="157" />
+              <mxPoint x="840" y="157" />
+              <mxPoint x="840" y="117" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-23" value="物质的化学计量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qEaScAbRv6_QL6zA3PdD-19" vertex="1" connectable="0">
+          <mxGeometry x="0.7583" y="-1" relative="1" as="geometry">
+            <mxPoint x="-177" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-1" value="物质的量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qEaScAbRv6_QL6zA3PdD-19">
+          <mxGeometry x="0.8467" y="-2" relative="1" as="geometry">
+            <mxPoint x="-14" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-25" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="-203" as="sourcePoint" />
+            <mxPoint x="960" y="-243" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="-203" />
+              <mxPoint x="840" y="-243" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-26" value="物质分类的意义" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qEaScAbRv6_QL6zA3PdD-25" vertex="1" connectable="0">
+          <mxGeometry x="0.7789" y="-2" relative="1" as="geometry">
+            <mxPoint x="-43" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-27" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qEaScAbRv6_QL6zA3PdD-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="-3" as="sourcePoint" />
+            <mxPoint x="960" y="-203" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="37" />
+              <mxPoint x="600" y="-203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-28" value="物质分类的标准" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qEaScAbRv6_QL6zA3PdD-27" vertex="1" connectable="0">
+          <mxGeometry x="0.4267" y="-1" relative="1" as="geometry">
+            <mxPoint x="123" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-31" value="物质的分类" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qEaScAbRv6_QL6zA3PdD-27" vertex="1" connectable="0">
+          <mxGeometry x="0.2094" y="2" relative="1" as="geometry">
+            <mxPoint y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-29" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="-203" as="sourcePoint" />
+            <mxPoint x="960" y="-163" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="-203" />
+              <mxPoint x="840" y="-163" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-30" value="无机化合物的分类" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qEaScAbRv6_QL6zA3PdD-29" vertex="1" connectable="0">
+          <mxGeometry x="0.2667" y="-5" relative="1" as="geometry">
+            <mxPoint x="35" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-33" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="-83" as="sourcePoint" />
+            <mxPoint x="960" y="-43" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="-83" />
+              <mxPoint x="840" y="-43" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-35" value="物质转化的条件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qEaScAbRv6_QL6zA3PdD-33" vertex="1" connectable="0">
+          <mxGeometry x="0.7143" y="-2" relative="1" as="geometry">
+            <mxPoint x="-20" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-37" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="37" as="sourcePoint" />
+            <mxPoint x="960" y="77" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="37" />
+              <mxPoint x="840" y="77" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEaScAbRv6_QL6zA3PdD-38" value="&lt;div&gt;氧化还原反应和&lt;/div&gt;&lt;div&gt;非氧化还原反应&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qEaScAbRv6_QL6zA3PdD-37" vertex="1" connectable="0">
+          <mxGeometry x="0.725" y="-3" relative="1" as="geometry">
+            <mxPoint x="-27" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-2" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;align=center;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="157" as="sourcePoint" />
+            <mxPoint x="960" y="197" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="157" />
+              <mxPoint x="840" y="197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-3" value="气体摩尔体积" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-2">
+          <mxGeometry x="0.7571" y="2" relative="1" as="geometry">
+            <mxPoint x="-26" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-4" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="277" as="sourcePoint" />
+            <mxPoint x="1080" y="257" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="237" />
+              <mxPoint x="960" y="237" />
+              <mxPoint x="960" y="257" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-5" value="溶液" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-4">
+          <mxGeometry x="0.125" y="-2" relative="1" as="geometry">
+            <mxPoint x="-68" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-9" value="电离方程式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-4">
+          <mxGeometry x="0.48" relative="1" as="geometry">
+            <mxPoint x="18" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="277" as="sourcePoint" />
+            <mxPoint x="1080" y="217" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="237" />
+              <mxPoint x="960" y="237" />
+              <mxPoint x="960" y="217" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-11" value="电解质溶液" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-10">
+          <mxGeometry x="0.5067" relative="1" as="geometry">
+            <mxPoint x="14" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="277" as="sourcePoint" />
+            <mxPoint x="1080" y="257" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="237" />
+              <mxPoint x="960" y="237" />
+              <mxPoint x="960" y="257" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-13" value="溶液" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-12">
+          <mxGeometry x="0.125" y="-2" relative="1" as="geometry">
+            <mxPoint x="-68" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-14" value="电离方程式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-12">
+          <mxGeometry x="0.48" relative="1" as="geometry">
+            <mxPoint x="18" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="277" as="sourcePoint" />
+            <mxPoint x="1080" y="217" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="237" />
+              <mxPoint x="960" y="237" />
+              <mxPoint x="960" y="217" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-16" value="电解质溶液" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-15">
+          <mxGeometry x="0.5067" relative="1" as="geometry">
+            <mxPoint x="14" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="277" as="sourcePoint" />
+            <mxPoint x="1080" y="337" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="317" />
+              <mxPoint x="960" y="317" />
+              <mxPoint x="960" y="337" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-18" value="胶体" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-17">
+          <mxGeometry x="0.125" y="-2" relative="1" as="geometry">
+            <mxPoint x="-68" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-19" value="胶体的应用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-17">
+          <mxGeometry x="0.48" relative="1" as="geometry">
+            <mxPoint x="18" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="277" as="sourcePoint" />
+            <mxPoint x="1080" y="297" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="317" />
+              <mxPoint x="960" y="317" />
+              <mxPoint x="960" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-21" value="胶体的特性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-20">
+          <mxGeometry x="0.5067" relative="1" as="geometry">
+            <mxPoint x="14" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-22" value="研究物质的基本方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-23" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="380" as="sourcePoint" />
+            <mxPoint x="840" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="560" />
+              <mxPoint x="600" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-24" value="研究物质的实验方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-23">
+          <mxGeometry x="0.2533" y="-1" relative="1" as="geometry">
+            <mxPoint x="38.33" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-25" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="560" as="sourcePoint" />
+            <mxPoint x="840" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-26" value="溶液组成的定量研究" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-25">
+          <mxGeometry x="0.2533" y="-1" relative="1" as="geometry">
+            <mxPoint x="-6.670000000000002" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-27" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="560" as="sourcePoint" />
+            <mxPoint x="840" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="560" />
+              <mxPoint x="600" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-28" value="人类对原子结构的认识" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-27">
+          <mxGeometry x="0.2533" y="-1" relative="1" as="geometry">
+            <mxPoint x="38.33" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-29" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="440" as="sourcePoint" />
+            <mxPoint x="1080" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-30" value="蒸馏" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-29">
+          <mxGeometry x="0.4333" y="3" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-31" value="物质的分类和提纯" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-29">
+          <mxGeometry x="-0.5528" y="-2" relative="1" as="geometry">
+            <mxPoint x="6.67" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-32" value="过滤、结晶" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.25" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="440" as="sourcePoint" />
+            <mxPoint x="1080" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="400" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-33" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="440" as="sourcePoint" />
+            <mxPoint x="1080" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="440" />
+              <mxPoint x="960" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-34" value="分液、萃取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-33">
+          <mxGeometry x="0.7524" y="3" relative="1" as="geometry">
+            <mxPoint x="-25" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
