@@ -1,24 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T08:10:34.872Z" agent="5.0 (Windows)" etag="EW8opBXaSNJ8BvcB6rBG" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T09:39:58.821Z" agent="5.0 (Windows)" etag="wSkGyea0V594p0nFKBrI" version="14.2.9" type="github">
   <diagram id="OlMQ8r9Cjyl36SM7t3xo" name="Page-1">
-    <mxGraphModel dx="1013" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7EWgq0S61AGJvDN5Yk3w-1" value="必修第一册" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="237" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="60" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7EWgq0S61AGJvDN5Yk3w-2" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="7EWgq0S61AGJvDN5Yk3w-1" target="qEaScAbRv6_QL6zA3PdD-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="337" y="99" as="sourcePoint" />
             <mxPoint x="387" y="-3" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="339" y="99" />
-              <mxPoint x="337" y="99" />
-              <mxPoint x="337" y="37" />
+              <mxPoint x="162" y="37" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7EWgq0S61AGJvDN5Yk3w-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7EWgq0S61AGJvDN5Yk3w-1" edge="1" target="-lf4UjEkGuIfoQJ0EiHT-22">
+        <mxCell id="7EWgq0S61AGJvDN5Yk3w-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;exitX=1.008;exitY=0.425;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="7EWgq0S61AGJvDN5Yk3w-1" edge="1" target="-lf4UjEkGuIfoQJ0EiHT-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="327" y="410" as="sourcePoint" />
             <mxPoint x="397" y="550" as="targetPoint" />
@@ -321,55 +319,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-lf4UjEkGuIfoQJ0EiHT-22" value="研究物质的基本方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lf4UjEkGuIfoQJ0EiHT-23" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="380" as="sourcePoint" />
-            <mxPoint x="840" y="440" as="targetPoint" />
+            <mxPoint x="1080" y="440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="600" y="560" />
-              <mxPoint x="600" y="440" />
+              <mxPoint x="600" y="480" />
+              <mxPoint x="720" y="480" />
+              <mxPoint x="840" y="480" />
+              <mxPoint x="840" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-lf4UjEkGuIfoQJ0EiHT-24" value="研究物质的实验方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-23">
           <mxGeometry x="0.2533" y="-1" relative="1" as="geometry">
-            <mxPoint x="38.33" y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-25" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="560" as="sourcePoint" />
-            <mxPoint x="840" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="600" y="560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-26" value="溶液组成的定量研究" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-25">
-          <mxGeometry x="0.2533" y="-1" relative="1" as="geometry">
-            <mxPoint x="-6.670000000000002" y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-27" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="560" as="sourcePoint" />
-            <mxPoint x="840" y="680" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="600" y="560" />
-              <mxPoint x="600" y="680" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-28" value="人类对原子结构的认识" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-27">
-          <mxGeometry x="0.2533" y="-1" relative="1" as="geometry">
-            <mxPoint x="38.33" y="-11" as="offset" />
+            <mxPoint x="-121" y="5.710000000000001" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-lf4UjEkGuIfoQJ0EiHT-29" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="440" as="sourcePoint" />
+            <mxPoint x="860" y="440" as="sourcePoint" />
             <mxPoint x="1080" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -378,9 +350,9 @@
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-31" value="物质的分类和提纯" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-29">
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-31" value="物质的分离和提纯" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-29">
           <mxGeometry x="-0.5528" y="-2" relative="1" as="geometry">
-            <mxPoint x="6.67" y="-12" as="offset" />
+            <mxPoint x="-10.000000000000002" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-lf4UjEkGuIfoQJ0EiHT-32" value="过滤、结晶" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -395,7 +367,7 @@
         </mxCell>
         <mxCell id="-lf4UjEkGuIfoQJ0EiHT-33" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="440" as="sourcePoint" />
+            <mxPoint x="860" y="440" as="sourcePoint" />
             <mxPoint x="1080" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="960" y="440" />
@@ -407,6 +379,1246 @@
           <mxGeometry x="0.7524" y="3" relative="1" as="geometry">
             <mxPoint x="-25" y="-7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-36" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="540" as="sourcePoint" />
+            <mxPoint x="1080" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="540" />
+              <mxPoint x="960" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-38" value="化学方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-36">
+          <mxGeometry x="0.475" y="-1" relative="1" as="geometry">
+            <mxPoint x="-12.86" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-37" value="物质的检验" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.0638" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="480" as="sourcePoint" />
+            <mxPoint x="1080" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="480" />
+              <mxPoint x="840" y="540" />
+              <mxPoint x="960" y="540" />
+              <mxPoint x="960" y="560" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-39" value="仪器分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-37">
+          <mxGeometry x="0.681" y="3" relative="1" as="geometry">
+            <mxPoint x="14.29" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-46" value="&lt;div&gt;物质的量的浓度的概念&lt;/div&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.52" y="8" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="638" as="sourcePoint" />
+            <mxPoint x="1080" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="638" />
+              <mxPoint x="960" y="600" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-47" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="678" as="sourcePoint" />
+            <mxPoint x="1080" y="678" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="560" />
+              <mxPoint x="600" y="678" />
+              <mxPoint x="840" y="678" />
+              <mxPoint x="840" y="638" />
+              <mxPoint x="960" y="638" />
+              <mxPoint x="960" y="678" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-48" value="&lt;div&gt;配置一定的物质的量&lt;/div&gt;&lt;div&gt;浓度的溶液&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-47">
+          <mxGeometry x="0.7524" y="3" relative="1" as="geometry">
+            <mxPoint x="33.71" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-55" value="物质的量浓度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-47">
+          <mxGeometry x="0.2442" y="-1" relative="1" as="geometry">
+            <mxPoint x="49" y="-14.57" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-49" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="738" as="sourcePoint" />
+            <mxPoint x="1080" y="718" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="738" />
+              <mxPoint x="960" y="718" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-50" value="定量分析溶液组成的原理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-49">
+          <mxGeometry x="0.475" y="-1" relative="1" as="geometry">
+            <mxPoint x="-7.14" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-51" value="溶液组成的定量分析" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-22">
+          <mxGeometry x="0.4987" y="8" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="678" as="sourcePoint" />
+            <mxPoint x="1080" y="758" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="560" />
+              <mxPoint x="600" y="678" />
+              <mxPoint x="840" y="678" />
+              <mxPoint x="840" y="738" />
+              <mxPoint x="960" y="738" />
+              <mxPoint x="960" y="758" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-52" value="&lt;div&gt;基于化学反应计算&lt;/div&gt;&lt;div&gt;物质的量浓度&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-51">
+          <mxGeometry x="0.681" y="3" relative="1" as="geometry">
+            <mxPoint x="57" y="-17.14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-54" value="溶液组成的定量研究 " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-51">
+          <mxGeometry x="-0.3094" y="-1" relative="1" as="geometry">
+            <mxPoint x="66.57" y="-9.62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-56" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="560" as="sourcePoint" />
+            <mxPoint x="1080" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="560" />
+              <mxPoint x="600" y="480" />
+              <mxPoint x="720" y="480" />
+              <mxPoint x="840" y="480" />
+              <mxPoint x="840" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-57" value="研究物质的实验方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-56">
+          <mxGeometry x="0.2533" y="-1" relative="1" as="geometry">
+            <mxPoint x="-121" y="5.710000000000001" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-58" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="440" as="sourcePoint" />
+            <mxPoint x="1080" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-59" value="蒸馏" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-58">
+          <mxGeometry x="0.4333" y="3" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-60" value="物质的分离和提纯" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-58">
+          <mxGeometry x="-0.5528" y="-2" relative="1" as="geometry">
+            <mxPoint x="-10.000000000000002" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-61" value="过滤、结晶" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.25" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="440" as="sourcePoint" />
+            <mxPoint x="1080" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="400" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-62" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="440" as="sourcePoint" />
+            <mxPoint x="1080" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="440" />
+              <mxPoint x="960" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-63" value="分液、萃取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-62">
+          <mxGeometry x="0.7524" y="3" relative="1" as="geometry">
+            <mxPoint x="-25" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-64" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="540" as="sourcePoint" />
+            <mxPoint x="1080" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="540" />
+              <mxPoint x="960" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-65" value="化学方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-64">
+          <mxGeometry x="0.475" y="-1" relative="1" as="geometry">
+            <mxPoint x="-12.86" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-66" value="物质的检验" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.0638" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="480" as="sourcePoint" />
+            <mxPoint x="1080" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="480" />
+              <mxPoint x="840" y="540" />
+              <mxPoint x="960" y="540" />
+              <mxPoint x="960" y="560" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-67" value="仪器分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-66">
+          <mxGeometry x="0.681" y="3" relative="1" as="geometry">
+            <mxPoint x="14.29" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-68" value="&lt;div&gt;物质的量的浓度的概念&lt;/div&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.52" y="8" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="638" as="sourcePoint" />
+            <mxPoint x="1080" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="638" />
+              <mxPoint x="960" y="600" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-69" value="&lt;div&gt;配置一定的物质的量&lt;/div&gt;&lt;div&gt;浓度的溶液&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1019.9957142857145" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-70" value="物质的量浓度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="890" y="630.0014285714283" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-71" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="738" as="sourcePoint" />
+            <mxPoint x="1080" y="718" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="738" />
+              <mxPoint x="960" y="718" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-72" value="定量分析溶液组成的原理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-71">
+          <mxGeometry x="0.475" y="-1" relative="1" as="geometry">
+            <mxPoint x="-7.14" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-73" value="溶液组成的定量分析" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry x="0.4987" y="8" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="560" as="sourcePoint" />
+            <mxPoint x="1080" y="758" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="560" />
+              <mxPoint x="600" y="678" />
+              <mxPoint x="840" y="678" />
+              <mxPoint x="840" y="738" />
+              <mxPoint x="960" y="738" />
+              <mxPoint x="960" y="758" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-74" value="&lt;div&gt;基于化学反应计算&lt;/div&gt;&lt;div&gt;物质的量浓度&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-73">
+          <mxGeometry x="0.681" y="3" relative="1" as="geometry">
+            <mxPoint x="57" y="-17.14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-75" value="溶液组成的定量研究 " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-73">
+          <mxGeometry x="-0.3094" y="-1" relative="1" as="geometry">
+            <mxPoint x="56.56999999999999" y="-9.62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-90" value="原子、中子" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.52" y="8" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="877" as="sourcePoint" />
+            <mxPoint x="1080" y="839" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="877" />
+              <mxPoint x="960" y="839" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-93" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="977" as="sourcePoint" />
+            <mxPoint x="1080" y="957" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="977" />
+              <mxPoint x="960" y="957" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-95" value="原子结构示意图" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1020" y="979.0028571428575" as="geometry">
+            <mxPoint x="-1" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-97" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.52" y="8" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="877" as="sourcePoint" />
+            <mxPoint x="1080" y="839" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="877" />
+              <mxPoint x="960" y="839" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-100" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="977" as="sourcePoint" />
+            <mxPoint x="1080" y="957" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="977" />
+              <mxPoint x="960" y="957" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-101" value="核外电子排布规律" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-100">
+          <mxGeometry x="0.475" y="-1" relative="1" as="geometry">
+            <mxPoint x="-7.14" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-102" value="原子核外电子排布" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-22">
+          <mxGeometry x="0.5988" y="7" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="799" as="sourcePoint" />
+            <mxPoint x="1080" y="997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="560" />
+              <mxPoint x="600" y="917" />
+              <mxPoint x="840" y="917" />
+              <mxPoint x="840" y="977" />
+              <mxPoint x="960" y="977" />
+              <mxPoint x="960" y="997" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-104" value="人类对原子结构的认识" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-102">
+          <mxGeometry x="-0.3094" y="-1" relative="1" as="geometry">
+            <mxPoint x="121" y="75.71" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-105" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="799" as="sourcePoint" />
+            <mxPoint x="1080" y="917" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="560" />
+              <mxPoint x="600" y="917" />
+              <mxPoint x="840" y="917" />
+              <mxPoint x="840" y="877" />
+              <mxPoint x="960" y="877" />
+              <mxPoint x="960" y="917" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-106" value="核素、同位素" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-105">
+          <mxGeometry x="0.7524" y="3" relative="1" as="geometry">
+            <mxPoint x="57" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-107" value="原子核的构成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-105">
+          <mxGeometry x="0.2442" y="-1" relative="1" as="geometry">
+            <mxPoint x="117" y="-58" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-108" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="560" as="sourcePoint" />
+            <mxPoint x="960" y="799" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="560" />
+              <mxPoint x="600" y="917" />
+              <mxPoint x="840" y="917" />
+              <mxPoint x="840" y="799" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-111" value="原子结构模型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-108">
+          <mxGeometry x="0.8719" y="-2" relative="1" as="geometry">
+            <mxPoint x="-0.7100000000000009" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-113" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7EWgq0S61AGJvDN5Yk3w-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="790" as="sourcePoint" />
+            <mxPoint x="400" y="1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="162" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-114" value="微观结构与物质的多样性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-115" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-114">
+          <mxGeometry x="0.125" y="54" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1110" as="sourcePoint" />
+            <mxPoint x="1080" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="1120" />
+              <mxPoint x="840" y="1080" />
+              <mxPoint x="960" y="1080" />
+              <mxPoint x="960" y="1060" />
+            </Array>
+            <mxPoint x="-50" y="34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-121" value="离子键" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-115">
+          <mxGeometry x="0.8565" relative="1" as="geometry">
+            <mxPoint x="-15.84" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-116" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.125" y="54" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1120" as="sourcePoint" />
+            <mxPoint x="1080" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="1120" />
+              <mxPoint x="840" y="1080" />
+              <mxPoint x="960" y="1080" />
+              <mxPoint x="960" y="1100" />
+            </Array>
+            <mxPoint x="-50" y="34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-119" value="化学键" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-116">
+          <mxGeometry x="0.4048" y="-2" relative="1" as="geometry">
+            <mxPoint x="-25.83" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-122" value="共价键" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-116">
+          <mxGeometry x="0.8538" y="-3" relative="1" as="geometry">
+            <mxPoint x="-15" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-117" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-114">
+          <mxGeometry x="0.125" y="54" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="1120" as="sourcePoint" />
+            <mxPoint x="960" y="1149" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="1120" />
+              <mxPoint x="840" y="1149" />
+              <mxPoint x="960" y="1149" />
+              <mxPoint x="900" y="1149" />
+            </Array>
+            <mxPoint x="-50" y="34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-123" value="微粒间作用力" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lf4UjEkGuIfoQJ0EiHT-117">
+          <mxGeometry x="-0.4126" y="-3" relative="1" as="geometry">
+            <mxPoint x="-3.33" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-120" value="分子间作用力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="1130" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-124" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1120" as="sourcePoint" />
+            <mxPoint x="960" y="1240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="1120" />
+              <mxPoint x="600" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-126" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1120" as="sourcePoint" />
+            <mxPoint x="960" y="1200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="1120" />
+              <mxPoint x="600" y="1240" />
+              <mxPoint x="840" y="1240" />
+              <mxPoint x="840" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-127" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1120" as="sourcePoint" />
+            <mxPoint x="960" y="1280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="1120" />
+              <mxPoint x="600" y="1240" />
+              <mxPoint x="840" y="1240" />
+              <mxPoint x="840" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-129" value="从微观结构看物质的多样性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1220" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-130" value="同素异形现象" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="845" y="1180" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-131" value="同分异构现象" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="845" y="1220" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-132" value="晶体与非晶体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="845" y="1260" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-133" value="" style="endArrow=classic;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7EWgq0S61AGJvDN5Yk3w-1" target="-lf4UjEkGuIfoQJ0EiHT-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="477.99999999999955" as="sourcePoint" />
+            <mxPoint x="-170" y="88" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="78" y="58" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-134" value="从海水中获得的化学物质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="28" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-135" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="59" as="sourcePoint" />
+            <mxPoint x="-840" y="-201" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="59" />
+              <mxPoint x="-360" y="-321" />
+              <mxPoint x="-600" y="-321" />
+              <mxPoint x="-600" y="-201" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-136" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-550" y="-321" as="sourcePoint" />
+            <mxPoint x="-840" y="-321" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-600" y="-321" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-137" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="-322" as="sourcePoint" />
+            <mxPoint x="-840" y="-362" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="-362" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-138" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="-322" as="sourcePoint" />
+            <mxPoint x="-840" y="-282" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="-282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-140" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="-201" as="sourcePoint" />
+            <mxPoint x="-840" y="-241" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="-241" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-141" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="-201" as="sourcePoint" />
+            <mxPoint x="-840" y="-161" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="-161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-142" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-600" y="-422" as="sourcePoint" />
+            <mxPoint x="-840" y="-402" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="-422" />
+              <mxPoint x="-720" y="-402" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-143" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-540" y="-321" as="sourcePoint" />
+            <mxPoint x="-840" y="-441" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-600" y="-321" />
+              <mxPoint x="-600" y="-421" />
+              <mxPoint x="-720" y="-421" />
+              <mxPoint x="-720" y="-441" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-145" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="60" as="sourcePoint" />
+            <mxPoint x="-839.9999999999998" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="60" />
+              <mxPoint x="-600" y="60" />
+              <mxPoint x="-600" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-146" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-490" y="59" as="sourcePoint" />
+            <mxPoint x="-839.9999999999998" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-600" y="59" />
+              <mxPoint x="-600" y="140" />
+              <mxPoint x="-720" y="140" />
+              <mxPoint x="-720" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-147" value="" style="endArrow=classic;html=1;exitX=0.576;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-179">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-650" y="139" as="sourcePoint" />
+            <mxPoint x="-839.9999999999998" y="119" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="139" />
+              <mxPoint x="-720" y="119" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-149" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-719.9999999999998" y="-41" as="sourcePoint" />
+            <mxPoint x="-839.9999999999998" y="-81" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="-81" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-150" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-719.9999999999998" y="-41" as="sourcePoint" />
+            <mxPoint x="-839.9999999999998" y="-1" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="-1" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-151" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-600" y="59" as="sourcePoint" />
+            <mxPoint x="-839.9999999999998" y="79" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="59" />
+              <mxPoint x="-720" y="79" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-152" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="59" as="sourcePoint" />
+            <mxPoint x="-839.9999999999998" y="39" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-600" y="59" />
+              <mxPoint x="-720" y="59" />
+              <mxPoint x="-720" y="39" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-153" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-500" y="278" as="sourcePoint" />
+            <mxPoint x="-720" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="58" />
+              <mxPoint x="-360" y="260" />
+              <mxPoint x="-600" y="260" />
+              <mxPoint x="-600" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-155" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="260" as="sourcePoint" />
+            <mxPoint x="-720" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-600" y="260" />
+              <mxPoint x="-600" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-156" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-400" y="260" as="sourcePoint" />
+            <mxPoint x="-720" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-600" y="260" />
+              <mxPoint x="-600" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-157" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-450" y="260" as="sourcePoint" />
+            <mxPoint x="-720" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-600" y="260" />
+              <mxPoint x="-600" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-158" value="氯气的工业制法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="-420" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-160" value="氯气的实验室制法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="-460" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-161" value="氯气的物理性质" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="-380" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-162" value="氯气的化学性质" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="-340" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-163" value="氯气的用途" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="-300" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-164" value="钠的性质" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-835.5" y="-100" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-165" value="氧化剂、还原剂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-835.5" y="-220" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-166" value="氧化反应、还原反应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-835.5" y="-180" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-167" value="氧化还原反应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-718.5" y="-220" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-168" value="氯气的性质及应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-718.5" y="-340" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-169" value="氯气的生产原理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-718.5" y="-440" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-171" value="钠的制备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-835.5" y="-60" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-172" value="钠的用途" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-835.5" y="-20" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-173" value="&lt;div&gt;碳酸钠与碳酸氢钠&lt;/div&gt;&lt;div&gt;的性质&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-835.5" y="10" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-174" value="&lt;div align=&quot;center&quot;&gt;碳酸钠与碳酸氢钠&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;的相互转化&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-835.5" y="38" width="115.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-175" value="强、弱电解质" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-834" y="90" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-176" value="离子方程式" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-835.5" y="130" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-177" value="钠的性质与制备" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-717" y="-70" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-178" value="碳酸钠、碳酸氢钠" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-718.5" y="30" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-179" value="离子反应" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-717" y="110" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-181" value="粗盐提纯" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-717" y="170" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-182" value="从海水中提取溴" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-718.5" y="210" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-183" value="从海水中提取镁" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-717" y="250" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-184" value="从海水中提取碘" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-717" y="290" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-185" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7EWgq0S61AGJvDN5Yk3w-1" target="-lf4UjEkGuIfoQJ0EiHT-186">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="640" as="sourcePoint" />
+            <mxPoint x="-160" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="560" />
+              <mxPoint x="-40" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-186" value="硫与环境保护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-187" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-186">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-610" y="660" as="sourcePoint" />
+            <mxPoint x="-840" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="620" />
+              <mxPoint x="-360" y="460" />
+              <mxPoint x="-600" y="460" />
+              <mxPoint x="-600" y="400" />
+              <mxPoint x="-720" y="400" />
+              <mxPoint x="-720" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-188" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-670" y="400" as="sourcePoint" />
+            <mxPoint x="-840" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-189" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-670" y="400" as="sourcePoint" />
+            <mxPoint x="-840" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="400" />
+              <mxPoint x="-720" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-190" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-500" y="460" as="sourcePoint" />
+            <mxPoint x="-840" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-600" y="460" />
+              <mxPoint x="-600" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-191" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-500" y="460" as="sourcePoint" />
+            <mxPoint x="-840" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-600" y="460" />
+              <mxPoint x="-600" y="520" />
+              <mxPoint x="-720" y="520" />
+              <mxPoint x="-720" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-192" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-500" y="460" as="sourcePoint" />
+            <mxPoint x="-840" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-600" y="460" />
+              <mxPoint x="-600" y="520" />
+              <mxPoint x="-720" y="520" />
+              <mxPoint x="-720" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-193" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-186">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-890" y="650" as="sourcePoint" />
+            <mxPoint x="-840" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="620" />
+              <mxPoint x="-720" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-194" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-186">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-630" y="830" as="sourcePoint" />
+            <mxPoint x="-840" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="620" />
+              <mxPoint x="-720" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-195" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-186">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-690" y="780" as="sourcePoint" />
+            <mxPoint x="-720" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-600" y="620" />
+              <mxPoint x="-600" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-196" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="620" as="sourcePoint" />
+            <mxPoint x="-840" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="620" />
+              <mxPoint x="-360" y="780" />
+              <mxPoint x="-600" y="780" />
+              <mxPoint x="-600" y="740" />
+              <mxPoint x="-720" y="740" />
+              <mxPoint x="-720" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-197" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="620" as="sourcePoint" />
+            <mxPoint x="-840" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="620" />
+              <mxPoint x="-360" y="780" />
+              <mxPoint x="-600" y="780" />
+              <mxPoint x="-600" y="740" />
+              <mxPoint x="-720" y="740" />
+              <mxPoint x="-720" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-198" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="620" as="sourcePoint" />
+            <mxPoint x="-839.9999999999998" y="799" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="620" />
+              <mxPoint x="-360" y="780" />
+              <mxPoint x="-600" y="780" />
+              <mxPoint x="-600" y="819" />
+              <mxPoint x="-720" y="819" />
+              <mxPoint x="-720" y="799" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-199" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-186">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="780" as="sourcePoint" />
+            <mxPoint x="-839.9999999999998" y="839" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="620" />
+              <mxPoint x="-360" y="780" />
+              <mxPoint x="-600" y="780" />
+              <mxPoint x="-600" y="819" />
+              <mxPoint x="-720" y="819" />
+              <mxPoint x="-720" y="839" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-200" value="酸性氧化物的通性" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-835.5" y="330" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-201" value="还原性" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-835.5" y="370" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-202" value="漂白性" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-835.5" y="410" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-203" value="二氧化硫的性质" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-718.5" y="370" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-204" value="硫酸的工业制备和性质" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-704.25" y="480" width="88.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-205" value="用硫铁矿制硫酸" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-835.5" y="450" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-206" value="浓硫酸的吸水性和脱水性" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="480" width="95.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-207" value="浓硫酸的强氧化性" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-825.5" y="530" width="98.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-208" value="含硫化合物的性质" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-529" y="430" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-210" value="氯气及氯的化合物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="-350" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-211" value="金属钠及钠的化合物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="38" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-212" value="海洋化学资源的综合利用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-541.25" y="240" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-214" value="硫及其化合物的相互转化" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-549.75" y="585" width="136.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-216" value="含硫物质之间的转化" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="585" width="136.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-219" value="&lt;div&gt;氧化还原反应&lt;/div&gt;&lt;div&gt;方程式的配平&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="645" width="136.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-220" value="&lt;div&gt;不同价态含硫物质&lt;/div&gt;&lt;div&gt;之间的转化&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-844.5" y="560" width="136.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-221" value="&lt;div&gt;相同价态含硫物质&lt;/div&gt;&lt;div&gt;之间的转化&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-847.5" y="600" width="136.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-222" value="防治二氧化硫对环境的污染" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-549.75" y="750" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-223" value="酸雨及其治理" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-727" y="710" width="136.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-224" value="空气质量评价" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-728.25" y="790" width="136.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-225" value="酸雨的形成和危害" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-847.5" y="690" width="136.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-226" value="硫酸型酸雨的治理" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-846" y="730" width="136.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-227" value="空气质量指数" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-840.75" y="770" width="136.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-228" value="对雾霾的认识" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-844.5" y="810" width="136.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-229" value="元素周期表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-230" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7EWgq0S61AGJvDN5Yk3w-1" target="-lf4UjEkGuIfoQJ0EiHT-229">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="830" as="sourcePoint" />
+            <mxPoint x="-20" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-231" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-229">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-540" y="1040" as="sourcePoint" />
+            <mxPoint x="-840" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="1180" />
+              <mxPoint x="-360" y="1020" />
+              <mxPoint x="-600" y="1020" />
+              <mxPoint x="-600" y="940" />
+              <mxPoint x="-720" y="940" />
+              <mxPoint x="-720" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-232" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-630" y="940" as="sourcePoint" />
+            <mxPoint x="-840" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="940" />
+              <mxPoint x="-720" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-235" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-229">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="1060" as="sourcePoint" />
+            <mxPoint x="-840" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="1180" />
+              <mxPoint x="-360" y="1020" />
+              <mxPoint x="-600" y="1020" />
+              <mxPoint x="-600" y="1060" />
+              <mxPoint x="-720" y="1060" />
+              <mxPoint x="-720" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-236" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-630" y="1060" as="sourcePoint" />
+            <mxPoint x="-840" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="1060" />
+              <mxPoint x="-720" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-237" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-229">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="1060" as="sourcePoint" />
+            <mxPoint x="-840" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="1180" />
+              <mxPoint x="-360" y="1020" />
+              <mxPoint x="-600" y="1020" />
+              <mxPoint x="-600" y="1060" />
+              <mxPoint x="-720" y="1060" />
+              <mxPoint x="-720" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-238" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-630" y="1060" as="sourcePoint" />
+            <mxPoint x="-840" y="1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="1060" />
+              <mxPoint x="-720" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-239" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="1180" as="sourcePoint" />
+            <mxPoint x="-720" y="1160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-350" y="1180" />
+              <mxPoint x="-600" y="1180" />
+              <mxPoint x="-600" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-240" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-540" y="1180" as="sourcePoint" />
+            <mxPoint x="-720" y="1200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-600" y="1180" />
+              <mxPoint x="-600" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-241" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-229">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="1259.9999999999995" as="sourcePoint" />
+            <mxPoint x="-840.0000000000002" y="1219.9999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="1180" />
+              <mxPoint x="-360" y="1320" />
+              <mxPoint x="-600" y="1320" />
+              <mxPoint x="-600" y="1260" />
+              <mxPoint x="-720" y="1260" />
+              <mxPoint x="-720" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-242" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-640" y="1260" as="sourcePoint" />
+            <mxPoint x="-840.0000000000002" y="1259.9999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-243" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-229">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="1359.9999999999995" as="sourcePoint" />
+            <mxPoint x="-840.0000000000002" y="1299.9999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="1180" />
+              <mxPoint x="-360" y="1320" />
+              <mxPoint x="-600" y="1320" />
+              <mxPoint x="-600" y="1260" />
+              <mxPoint x="-720" y="1260" />
+              <mxPoint x="-720" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-244" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-630" y="1380" as="sourcePoint" />
+            <mxPoint x="-840.0000000000002" y="1339.9999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="1380" />
+              <mxPoint x="-720" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-245" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-lf4UjEkGuIfoQJ0EiHT-229">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="1359.9999999999995" as="sourcePoint" />
+            <mxPoint x="-840.0000000000002" y="1379.9999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="1180" />
+              <mxPoint x="-360" y="1320" />
+              <mxPoint x="-600" y="1320" />
+              <mxPoint x="-600" y="1380" />
+              <mxPoint x="-720" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-246" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-630" y="1380" as="sourcePoint" />
+            <mxPoint x="-840.0000000000002" y="1419.9999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="1380" />
+              <mxPoint x="-720" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-248" value="元素周期表的结构" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-556.37" y="990" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-249" value="&lt;div&gt;元素在周期表中的位置&lt;/div&gt;&lt;div&gt;与原子结构的关系&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-556.37" y="1130" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-250" value="原子结构和性质的递变规律" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-556.37" y="1290" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-251" value="周期" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-731.5" y="910" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-252" value="族" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-735.63" y="1030" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-253" value="周期序数=电子层数" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-731.5" y="1130" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-254" value="主族序数=最外层电子层数" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-751.25" y="1170" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-255" value="&lt;div&gt;同周期、同主族元素&lt;/div&gt;&lt;div&gt;原子结构的递变规律&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-728.25" y="1220" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-258" value="&lt;div&gt;同周期、同主族元素&lt;/div&gt;&lt;div&gt;性质的递变规律&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-735.63" y="1340" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-259" value="短周期" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-851.12" y="890" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-260" value="长周期" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-851.87" y="930" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-261" value="主族" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-854.12" y="970" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-262" value="副族" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-857.75" y="1010" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-263" value="VIII族" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-857.75" y="1050" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-264" value="0族" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-859.25" y="1090" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-265" value="核电荷数" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-851.12" y="1190" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-266" value="核外电子排布" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-851.12" y="1230" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-267" value="原子半径" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-851.12" y="1270" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-268" value="元素主要化合价" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-852.62" y="1310" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-269" value="元素金属性" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-854.13" y="1350" width="149.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-lf4UjEkGuIfoQJ0EiHT-270" value="元素非金属性" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-851.12" y="1390" width="149.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
